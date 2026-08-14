@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
+<p align="centers">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuchyBenard&theme=github"
         </p>
 
