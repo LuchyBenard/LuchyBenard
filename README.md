@@ -62,5 +62,5 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-alpha-pink.vercel.app?user=LuchyBenard&theme=onedark-duo&card_width=550" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LuchyBenard&theme=onedark-duo&card_width=550" alt="GitHub Streak" />
 </p>
